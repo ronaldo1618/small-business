@@ -1,0 +1,50 @@
+{
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jeff",
+            "departmentId": 1,
+            "computerId": 1
+        },
+        {
+            "id": 2,
+            "name": "Natasha",
+            "departmentId": 3,
+            "computerId": 2
+        },
+        {
+            "id": 3,
+            "name": "Yara",
+            "departmentId": 2,
+            "computerId": 3
+        }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "depName": "HR"
+        },
+        {
+            "id": 2,
+            "depName": "IT"
+        },
+        {
+            "id": 3,
+            "depName": "RM"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "type": "MacBook Pro"
+        },
+        {
+            "id": 2,
+            "type": "Lenovo Yoga"
+        },
+        {
+            "id": 3,
+            "type": "Lenovo x230"
+        }
+    ]
+}
